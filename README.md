@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![cover img](/Hey%20there,%20I’m%20Jaziel%20García%20(7).gif) 
-
+<img src="./images/screenshot.png" alt="My screenshot" width="300">
 
 
 
