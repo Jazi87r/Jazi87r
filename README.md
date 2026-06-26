@@ -1,8 +1,6 @@
-## Hi there 👋
-
-<img src="/Hey%20there,%20I’m%20Jaziel%20García%20(11).gif">
-
-
+<p align="center">
+  <img src="/Hey%20there,%20I’m%20Jaziel%20García%20(11).gif">
+</p>
 
 
 
