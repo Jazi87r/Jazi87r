@@ -13,9 +13,8 @@
 | :----------------: | :---------------------------------------------------: |:----------------: | :---------------------------------------------------: | :----------------: | :---------------------------------------------------: | :----------------: | :---------------------------------------------------: | :----------------: | :---------------------------------------------------: |:----------------: | :---------------------------------------------------: |
 
 <h1>Tech stack:</h1>
-<h2>
-  Programming languages:
-</h2>
+
+**Programming languages:**
 
 ![Java](https://img.shields.io/badge/Java-FF0000?logo=coffeescript&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,15 +22,39 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 
-<h2>Frameworks and libraries:</h2>
+**Frameworks and libraries:**
 
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=green)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-800080?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-FFFFFF?style=for-the-badge&logo=axios&logoColor=purple)
-![Node.js](https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=green)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Jquery.js](https://img.shields.io/badge/Jquery-FFFFFF?style=for-the-badge&logo=jquery&logoColor=blue)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-800080?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Numpy.js](https://img.shields.io/badge/Numbpy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=blue)
+![springboot](https://img.shields.io/badge/springboot-008000?style=for-the-badge&logo=springboot&logoColor=white)
+
+
+**Databases:**
+
+ |      `MySQL`      |    [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)    |      `PostgreSQL`      |    [![My Skills](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev) |    `Supabase`      |    [![My Skills](https://skillicons.dev/icons?i=supabase)](https://skillicons.dev)   |    `MongoDB`      |    [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)   |
+| :----------------: | :---------------------------------------------------: |:----------------: | :---------------------------------------------------:  |:----------------: | :---------------------------------------------------: |  :----------------: | :---------------------------------------------------: |
+
+**Addiotional skills:**
+
+![GitHub](https://img.shields.io/badge/GitHub-BE5103?style=for-the-badge&logo=github&logoColor=white)
+![githubcopilot](https://img.shields.io/badge/githubcopilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![claudecode](https://img.shields.io/badge/claudecode-FFFFFF?style=for-the-badge&logo=claudecode&logoColor=orange)
+![codex](https://img.shields.io/badge/chatgptcodex-800080?style=for-the-badge&logo=chatgptcodex&logoColor=white)
+![postman](https://img.shields.io/badge/postman-BE5103?style=for-the-badge&logo=postman&logoColor=white)
+![vscode](https://img.shields.io/badge/vscode-0000FF?style=for-the-badge&logo=vscode&logoColor=white)
+![graphql](https://img.shields.io/badge/graphql-FF00FF?style=for-the-badge&logo=graphql&logoColor=white)
+
+
+
+
+
+
+
 
 
 <!--
