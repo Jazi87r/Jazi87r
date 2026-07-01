@@ -41,7 +41,7 @@
 
 **Addiotional skills:**
 
-![GitHub](https://img.shields.io/badge/GitHub-BE5103?style=for-the-badge&logo=github&logoColor=white)
+![Gi](https://img.shields.io/badge/Git-BE5103?style=for-the-badge&logo=git&logoColor=white)
 ![githubcopilot](https://img.shields.io/badge/githubcopilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![claudecode](https://img.shields.io/badge/claudecode-FFFFFF?style=for-the-badge&logo=claudecode&logoColor=orange)
 ![codex](https://img.shields.io/badge/chatgptcodex-800080?style=for-the-badge&logo=chatgptcodex&logoColor=white)
