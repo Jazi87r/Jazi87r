@@ -3,7 +3,7 @@
   <img src="/I%20am%20a%20Full-stack%20developer%F0%9F%91%A8%F0%9F%8F%BB_%F0%9F%92%BBExpress%2C%20React%2C%20Node.js%2C%20SQL%2C%20MongoDB...%20%283%29.gif" alt="Full-stack developer" />
 </div>
 <p align="center">
-  <img src="./github_profile_banner_v6%20(1).svg"  width="700">
+  <img src="./github_profile_banner_v9.svg"  width="700">
 </p>
 <div>
   <h1>Core skills:</h1>
