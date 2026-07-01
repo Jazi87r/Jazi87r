@@ -41,6 +41,7 @@
 
 **Addiotional skills:**
 
+![powerbi](https://img.shields.io/badge/powerbi-FFFFFF?style=for-the-badge&logo=soundcharts&logoColor=yellow)
 ![Gi](https://img.shields.io/badge/Git-BE5103?style=for-the-badge&logo=git&logoColor=white)
 ![githubcopilot](https://img.shields.io/badge/githubcopilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![claudecode](https://img.shields.io/badge/claudecode-FFFFFF?style=for-the-badge&logo=claudecode&logoColor=orange)
@@ -48,6 +49,8 @@
 ![postman](https://img.shields.io/badge/postman-BE5103?style=for-the-badge&logo=postman&logoColor=white)
 ![vscode](https://img.shields.io/badge/vscode-0000FF?style=for-the-badge&logo=vscode&logoColor=white)
 ![graphql](https://img.shields.io/badge/graphql-FF00FF?style=for-the-badge&logo=graphql&logoColor=white)
+![assembly](https://img.shields.io/badge/assemblylanguage-00008B?style=for-the-badge&logo=assembly&logoColor=white)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jazi87r&layout=pie&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&text_color=FFFFFF)](https://github.com/jazi87r/github-readme-stats)
 
