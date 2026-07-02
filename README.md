@@ -39,6 +39,17 @@
  |      `MySQL`      |    [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)    |      `PostgreSQL`      |    [![My Skills](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev) |    `Supabase`      |    [![My Skills](https://skillicons.dev/icons?i=supabase)](https://skillicons.dev)   |    `MongoDB`      |    [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)   |
 | :----------------: | :---------------------------------------------------: |:----------------: | :---------------------------------------------------:  |:----------------: | :---------------------------------------------------: |  :----------------: | :---------------------------------------------------: |
 
+
+**Methodologies:**
+
+![SCRUM](https://img.shields.io/badge/scrum-0000FF?style=for-the-badge&logo=scrum&logoColor=white)
+![kanban](https://img.shields.io/badge/kanban-FF0000?style=for-the-badge&logo=kanban&logoColor=white)
+![scrumban](https://img.shields.io/badge/scrumban-800080?style=for-the-badge&logo=scrumban&logoColor=white)
+![cascade](https://img.shields.io/badge/cascade-FFFFFF?style=for-the-badge&logo=cascade&logoColor=blue)
+
+
+
+
 **Addiotional skills:**
 
 ![powerbi](https://img.shields.io/badge/powerbi-FFFFFF?style=for-the-badge&logo=soundcharts&logoColor=yellow)
