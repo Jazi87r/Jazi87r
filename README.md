@@ -51,8 +51,7 @@
 ![graphql](https://img.shields.io/badge/graphql-FF00FF?style=for-the-badge&logo=graphql&logoColor=white)
 ![assembly](https://img.shields.io/badge/assemblylanguage-00008B?style=for-the-badge&logo=assembly&logoColor=white)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jazi87r&layout=pie&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&text_color=FFFFFF)](https://github.com/jazi87r/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jazi87r&layout=pie&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&text_color=FFFFFF&v=1)](https://github.com/jazi87r/github-readme-stats)
 
 
 
