@@ -42,13 +42,11 @@
 
 **Methodologies:**
 
-![SCRUM](https://img.shields.io/badge/scrum-0000FF?style=for-the-badge&logo=scrum&logoColor=white)
-![kanban](https://img.shields.io/badge/kanban-FF0000?style=for-the-badge&logo=kanban&logoColor=white)
-![scrumban](https://img.shields.io/badge/scrumban-800080?style=for-the-badge&logo=scrumban&logoColor=white)
-![cascade](https://img.shields.io/badge/cascade-FFFFFF?style=for-the-badge&logo=cascade&logoColor=blue)
-
-
-
+- SCRUM 🏈
+- Kanban 📋 
+- Scrumban 🚀
+- Cascade 🌊
+- Spiral 𖦹
 
 **Addiotional skills:**
 
